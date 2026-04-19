@@ -1,4 +1,4 @@
-# Adaptive Pseudo-Labeling in POI Recommendation
+# Pseudo-Labeling in Recommendation
 
 ## Abstract
 
